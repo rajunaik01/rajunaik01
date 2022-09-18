@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajunaik01
-- 👀 I’m interested in blochain development & full stack web development
-- 🌱 I’m currently learning full stack blockchain development from iNeuron.ai
-- 💞️ I’m looking to collaborate on blockchain development
+- 👀 I’m interested in Blochain Development, Data Science, Full Stack Web Development 
+- 🌱 I’m currently learning Full Stack Blockchain Development & Full Stack Data Science Bootcamp from iNeuron.ai
+- 💞️ I’m looking to collaborate on Blockchain Development & Data Science
 - 📫 How to reach me naikraju10@gmail.com
 
 <!---
