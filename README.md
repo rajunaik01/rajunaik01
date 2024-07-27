@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajunaik01
-- 👀 I’m interested in Blochain Development, Data Science, Full Stack Web Development 
+- 👀 I’m interested in Blockchain Development, Data Science, Full Stack Web Development 
 - 💞️ I’m looking to collaborate on Blockchain Development & Data Science
 - 📫 How to reach me naikraju10@gmail.com
 
